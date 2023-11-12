@@ -3,7 +3,7 @@
 
 ✨ I’m interested in Data Science / Machine Learning / Data Analytics
 
-🌱 I’m currently a Data Science undergraduate student at the University of Melbourne
+🌱 I’m a Data Science graduate from the University of Melbourne
 
 😃 Reach me on [LinkedIn](https://www.linkedin.com/in/seenyanlee/) to have a chat!
 
